@@ -21,13 +21,13 @@ This guide walks you through installing Kali Linux using a virtual machine for a
 ## 🎬 Video Guides
 
 ### VirtualBox
-- [How to Install Kali Linux on VirtualBox - YouTube](https://www.youtube.com/watch?v=J6N2YwMwWRM)
+- [How to Install Kali Linux on VirtualBox - YouTube](https://youtu.be/MPkni85O9JA?si=QzJ1n1kNSqNcqeb3)
 
 ### VMware
-- [Install Kali Linux on VMware Player - YouTube](https://www.youtube.com/watch?v=xGJAvlLCEtE)
+- [Install Kali Linux on VMware Player - YouTube](https://youtu.be/pwYH0NNWWzU?si=rMVHKd75WRsN7odS)
 
 ### Hyper-V
-- [Install Kali Linux in Hyper-V on Windows 11 - YouTube](https://www.youtube.com/watch?v=aVSTv6NoSkM)
+- [Install Kali Linux in Hyper-V on Windows Pro 10/11 - YouTube](https://youtu.be/_L4raAF7T2U?si=a8V9OjPOcicIxXzp)
 
 ---
 
