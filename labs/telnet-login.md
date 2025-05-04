@@ -1,3 +1,5 @@
+[🏠 Home](../README.md) • [🧪 Labs](../labs/README.md) • [🗒️ Notes](README.md)
+
 # 📡 Telnet Login with Default Credentials
 
 ## 🎯 Objective
