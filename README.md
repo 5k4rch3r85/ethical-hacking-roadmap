@@ -1,6 +1,6 @@
 # 🛡️ Ethical Hacking Training Plan
 
-[🏠 Home](../README.md) • [🧪 Labs](../labs/) • [🗒️ Notes](../notes/)
+[🏠 Home](../README.md) • [🧪 Labs](./labs/) • [🗒️ Notes](./notes/)
 
 ## 🎯 Objective
 Build foundational and advanced ethical hacking skills through structured, progressive hands-on learning.
