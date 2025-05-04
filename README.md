@@ -1,3 +1,19 @@
+# Create a simple progress badge in Markdown format using shields.io
+
+# Total tasks completed: 3 (based on previously added labs)
+# Estimated total items in the roadmap (customizable): 25
+completed = 3
+total = 25
+percentage = int((completed / total) * 100)
+
+# Construct badge URL using shields.io
+badge_url = f"https://img.shields.io/badge/Progress-{percentage}%25-brightgreen"
+
+# Generate markdown snippet for the badge
+badge_markdown = f"![Progress Badge]({badge_url})\n\n> **Training Progress**: {completed} of {total} tasks complete ({percentage}%)"
+
+badge_markdown
+
 # 🛡️ Ethical Hacking Training Plan
 
 ## 🎯 Objective
