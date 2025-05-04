@@ -1,4 +1,4 @@
-[🏠 Home](../README.md) • [🧪 Labs](../labs/README.md) • [🗒️ Notes](README.md)
+[🏠 Home](../README.md) • [🧪 Labs](../labs/README.md) • [🗒️ Notes](../notes/README.md)
 
 # 🐚 FTP Exploit – vsftpd 2.3.4
 
