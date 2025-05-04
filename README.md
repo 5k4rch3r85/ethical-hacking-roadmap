@@ -12,14 +12,15 @@ Build foundational and advanced ethical hacking skills through structured, progr
 - [ ] Kali terminal skills
 
 ## 🔧 2. Recon & Scanning
-- [ ] Nmap and Netcat usage
+- [ ] [Nmap scanning basics](labs/nmap-basics.md)
 - [ ] Gobuster and Nikto
 - [ ] Service detection
 
 ## 💣 3. Exploitation
-- [ ] FTP exploit (vsftpd 2.3.4)
+- [ ] [FTP exploit (vsftpd 2.3.4)](labs/ftp-vsftpd.md)
+- [ ] [Telnet brute-force](labs/telnet-login.md)
 - [ ] Metasploit framework basics
-- [ ] Telnet brute-force
+
 
 ## 🧬 4. Post-Exploitation
 - [ ] Shell interaction
