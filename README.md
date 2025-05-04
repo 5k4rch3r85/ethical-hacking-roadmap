@@ -11,8 +11,8 @@ Build foundational and advanced ethical hacking skills through structured, progr
 ---
 
 ## 🧱 1. Foundations: Lab & Basics
-- [x] Kali Linux installed
-- [x] Metasploitable 2 configured
+- [ ] [Kali Linux installed](resources/install-kali-vm.md)
+- [ ] Metasploitable 2 configured
 - [ ] Networking basics
 - [ ] Kali terminal skills
 
