@@ -1,3 +1,16 @@
 theme: jekyll-theme-cayman
 title: Ethical Hacking Roadmap
 description: Hands-on journey through labs, tools, and techniques.
+
+show_downloads: false
+
+navigation:
+  - title: 🏠 Home
+    url: /
+  - title: 🧪 Labs
+    url: /labs/
+  - title: 🗒️ Notes
+    url: /notes/
+  - title: 🔗 GitHub Repo
+    url: https://github.com/5k4rch3r85/ethical-hacking-roadmap
+
