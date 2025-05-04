@@ -3,13 +3,7 @@
 ![Progress Badge](https://img.shields.io/badge/Progress-12%25-brightgreen)
 > **Training Progress**: 3 of 25 tasks complete (12%)
 
-<div align="center">
-  <a href="./README.md">🏠 Home</a> •
-  <a href="./labs/">🧪 Labs</a> •
-  <a href="./notes/">🗒️ Notes</a> •
-  <a href="https://github.com/5k4rch3r85/ethical-hacking-roadmap">🔗 GitHub Repo</a>
-</div>
-
+[🏠 Home](../README.md) • [🧪 Labs](../labs/) • [🗒️ Notes](../notes/)
 
 ## 🎯 Objective
 Build foundational and advanced ethical hacking skills through structured, progressive hands-on learning.
