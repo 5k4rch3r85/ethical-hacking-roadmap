@@ -3,4 +3,4 @@
 # 🧪 Labs
 This section contains hands-on exercises, walkthroughs, and task results.
 
-- [Nmap & netcat](nmap-netcat.md)
+- [Nmap & Netcat](nmap-netcat.md)
