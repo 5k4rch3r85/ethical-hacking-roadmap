@@ -1,3 +1,5 @@
+[🏠 Home](../README.md) • [🧪 Labs](./) • [🗒️ Notes](../notes/)
+
 # 🔎 Nmap & Netcat Usage
 
 ## 🧰 Nmap - Network Mapping
@@ -80,8 +82,3 @@ nc <kali_ip> 4444 < file.txt
 - [ ] Connect from Metasploitable back to Kali with Netcat
 - [ ] Try sending a small file over Netcat between the systems
 
----
-
-## 🧭 Navigation
-
-[🏠 Home](../README.md) • [🧪 Labs](./) • [🗒️ Notes](../notes/)
