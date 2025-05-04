@@ -1,8 +1,9 @@
 # 🛡️ Ethical Hacking Training Plan
 
 ![Progress Badge](https://img.shields.io/badge/Progress-12%25-brightgreen)
-
 > **Training Progress**: 3 of 25 tasks complete (12%)
+
+[🏠 Home](./README.md) • [🧪 Labs](./labs/) • [🗒️ Notes](./notes/) • [GitHub Repo 🔗](https://github.com/5k4rch3r85/ethical-hacking-roadmap)
 
 ## 🎯 Objective
 Build foundational and advanced ethical hacking skills through structured, progressive hands-on learning.
