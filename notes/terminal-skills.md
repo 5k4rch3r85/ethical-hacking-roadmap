@@ -1,3 +1,5 @@
+[🏠 Home](../README.md) • [🧪 Labs](../labs/README.md) • [🗒️ Notes](README.md)
+
 # Kali Terminal Skills
 
 ## Navigation
