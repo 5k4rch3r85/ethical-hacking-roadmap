@@ -1,5 +1,9 @@
 # 🛡️ Ethical Hacking Training Plan
 
+![Progress Badge](https://img.shields.io/badge/Progress-12%25-brightgreen)
+
+> **Training Progress**: 3 of 25 tasks complete (12%)
+
 ## 🎯 Objective
 Build foundational and advanced ethical hacking skills through structured, progressive hands-on learning.
 
@@ -12,14 +16,15 @@ Build foundational and advanced ethical hacking skills through structured, progr
 - [ ] Kali terminal skills
 
 ## 🔧 2. Recon & Scanning
-- [ ] Nmap and Netcat usage
+- [ ] [Nmap scanning basics](labs/nmap-basics.md)
 - [ ] Gobuster and Nikto
 - [ ] Service detection
 
 ## 💣 3. Exploitation
-- [ ] FTP exploit (vsftpd 2.3.4)
+- [ ] [FTP exploit (vsftpd 2.3.4)](labs/ftp-vsftpd.md)
+- [ ] [Telnet brute-force](labs/telnet-login.md)
 - [ ] Metasploit framework basics
-- [ ] Telnet brute-force
+
 
 ## 🧬 4. Post-Exploitation
 - [ ] Shell interaction
